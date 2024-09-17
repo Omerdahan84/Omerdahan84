@@ -15,8 +15,11 @@ Very hard-working and curious, looking to find my next challenge and push myself
   - [Boggle Game](https://github.com/Omerdahan84/Boggle)
   - [Jack Compiler] (https://github.com/Omerdahan84/JackCompiler)
 - <b>Golang (backend, encryption)--in progress--</b>
-  - [sha 256 visualization and demonstration](https://github.com/Omerdahan84/sha256)
+  - [sha 256 visualization and demonstration] (https://github.com/Omerdahan84/sha256)
   - [Simple server](https://github.com/Omerdahan84/SimpleServer)
  
 <footer> contacte me </footer> 
+  - [Linkedin] (https://www.linkedin.com/in/omer-dahan-li/)
+  - [Email] (omer111dahan@gmail.com)
+  - [Mobile] +972545307086
 
