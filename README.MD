@@ -18,7 +18,7 @@ Very hard-working and curious, looking to find my next challenge and push myself
   - [sha 256 visualization and demonstration] (https://github.com/Omerdahan84/sha256)
   - [Simple server](https://github.com/Omerdahan84/SimpleServer)
  
-<footer> contacte me </footer> 
+<b contacte me </b> 
   - [Linkedin] (https://www.linkedin.com/in/omer-dahan-li/)
   - [Email] (omer111dahan@gmail.com)
   - [Mobile] +972545307086
