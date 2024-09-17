@@ -4,6 +4,7 @@ currently a 3rd year student in the Hebrew university of Jerusalem.
 I'm open to work! 
 Very hard-working and curious, looking to find my next challenge and push myself beyond my limits.
 
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>(C/CPP)</b>
@@ -15,7 +16,7 @@ Very hard-working and curious, looking to find my next challenge and push myself
   - [Jack Compiler] (https://github.com/Omerdahan84/JackCompiler)
 - <b>Golang (backend, encryption)--in progress--</b>
   - [sha 256 visualization and demonstration](https://github.com/Omerdahan84/sha256)
-  - [Simple server]implementation)
+  - [Simple server](https://github.com/Omerdahan84/SimpleServer)
  
-
+<footer> contacte me </footer> 
 
